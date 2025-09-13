@@ -13,7 +13,6 @@ nav{
    
 }
 a{
-    
     margin: 20px;
     color:white;
      text-decoration: none;
@@ -29,14 +28,9 @@ a{
     width:60px;
     background-color: rgb(219, 237, 149);
     position: sticky;
-    /* left: 131px; */
     top: 8%;
     margin-left: -10%;
-        /* position: fixed;
-    top: 7%;
-    margin: -9%; */
 }
 .content{
-    /* margin-top:150px; */
     
 }
